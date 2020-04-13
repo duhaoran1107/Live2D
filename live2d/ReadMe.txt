@@ -1,0 +1,5 @@
+要添加模型：
+model文件夹添加要添加模型的文件夹，
+将model.json改为model0.json
+将贴图问价放入texttures文件夹中
+修改model_master.json中的配置，将新的model配置到里面，并配置衣服
